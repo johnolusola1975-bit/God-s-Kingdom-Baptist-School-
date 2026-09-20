@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220">
+<circle cx="110" cy="110" r="102" fill="#087443"/>
+<circle cx="110" cy="110" r="88" fill="#fff"/>
+<path d="M110 48v62M79 79h62" stroke="#087443" stroke-width="15" stroke-linecap="round"/>
+<path d="M62 122c25-18 71-18 96 0v45c-31-17-65-17-96 0z" fill="#e9f7ed" stroke="#087443" stroke-width="7"/>
+<path d="M68 127c14 5 28 7 42 7s28-2 42-7" fill="none" stroke="#087443" stroke-width="5"/>
+<text x="110" y="196" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#087443">GKBS</text>
+</svg>
